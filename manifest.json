@@ -1,0 +1,35 @@
+{
+    "name": "Emdad - Restaurant Supply Management",
+    "short_name": "Emdad",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#071B38",
+    "theme_color": "#071B38",
+    "description": "Premium restaurant supply management platform.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
